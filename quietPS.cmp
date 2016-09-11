@@ -1,0 +1,419 @@
+Cmp-Mod V01 Genere par PcbNew le wto, 26 maj 2015, 22:26:12
+
+BeginCmp
+TimeStamp = 5506DE78
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = HS-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500C065
+Path = /54FF762F
+Reference = Q4;
+ValeurCmp = STP4NK60ZFP;
+IdModule  = Transistors_TO-220:TO-220_FET-GDS_Vertical_LargePads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5502F30B
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = HS-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B8E7
+Path = /54FF5E2E
+Reference = C1;
+ValeurCmp = 10mF 16V;
+IdModule  = Caps:CP_18x35.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5506DDB1
+Path = /5500AD60
+Reference = C2;
+ValeurCmp = 10nF 500V;
+IdModule  = Caps:cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = 5506DDA6
+Path = /5500ADC1
+Reference = C3;
+ValeurCmp = 10nF 500V;
+IdModule  = Caps:cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B909
+Path = /54FF5F0E
+Reference = C4;
+ValeurCmp = 10mF 16V;
+IdModule  = Caps:CP_18x35.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5506DD9B
+Path = /5500ACE0
+Reference = C5;
+ValeurCmp = 10nF 500V;
+IdModule  = Caps:cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = 5506DD90
+Path = /5500AC3E
+Reference = C6;
+ValeurCmp = 10nF 500V;
+IdModule  = Caps:cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B927
+Path = /54FF61B4
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = Caps:cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B933
+Path = /54FF99E9
+Reference = C8;
+ValeurCmp = 22u 400V;
+IdModule  = Caps:CP_12.5x20mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B93F
+Path = /54FF9C28
+Reference = C9;
+ValeurCmp = 22u 400V;
+IdModule  = Caps:CP_12.5x20mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B94A
+Path = /54FF6098
+Reference = C10;
+ValeurCmp = 100uF 16V;
+IdModule  = Caps:CP_5x11mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B956
+Path = /55004C26
+Reference = C11;
+ValeurCmp = 1u 400V;
+IdModule  = Caps:CP_8x11.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B960
+Path = /55004773
+Reference = C12;
+ValeurCmp = 100nF;
+IdModule  = Caps:cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = 5506E605
+Path = /5500DDE8
+Reference = C13;
+ValeurCmp = 4.7uF 400V;
+IdModule  = Caps:CP_10x12.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B976
+Path = /54FF75A3
+Reference = C14;
+ValeurCmp = 10nF 500V;
+IdModule  = Caps:cnp_6mm_disc;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B982
+Path = /54FFA06F
+Reference = C15;
+ValeurCmp = 4.7uF 400V;
+IdModule  = Caps:CP_10x12.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B992
+Path = /54FF5A51
+Reference = D1;
+ValeurCmp = SR540;
+IdModule  = DIODEs:diode_do201;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B9A2
+Path = /54FF5B6A
+Reference = D2;
+ValeurCmp = SR540;
+IdModule  = DIODEs:diode_do201;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B9B2
+Path = /54FF5B2C
+Reference = D3;
+ValeurCmp = SR540;
+IdModule  = DIODEs:diode_do201;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B9C2
+Path = /54FF5B9F
+Reference = D4;
+ValeurCmp = SR540;
+IdModule  = DIODEs:diode_do201;
+EndCmp
+
+BeginCmp
+TimeStamp = 5506DD85
+Path = /54FF9417
+Reference = D5;
+ValeurCmp = BRIDGE;
+IdModule  = DIODEs:bridge_wob;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500B9F6
+Path = /54FF568C
+Reference = D7;
+ValeurCmp = 5V6;
+IdModule  = DIODEs:diode_do35;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BA04
+Path = /54FFA9E1
+Reference = D8;
+ValeurCmp = 100V;
+IdModule  = DIODEs:diode_do41;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BA12
+Path = /54FF6BB7
+Reference = D9;
+ValeurCmp = 100V;
+IdModule  = DIODEs:diode_do41;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BA20
+Path = /54FF6CA2
+Reference = D10;
+ValeurCmp = 56V;
+IdModule  = DIODEs:diode_do41;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BA39
+Path = /5500EFCB
+Reference = F1;
+ValeurCmp = 100mA 250V;
+IdModule  = Fuse_Holders_and_Fuses:Fuseholder5x20_horiz_SemiClosed_Casing10x25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BA52
+Path = /55010A0D
+Reference = F2;
+ValeurCmp = 5A;
+IdModule  = Fuse_Holders_and_Fuses:Fuseholder5x20_horiz_SemiClosed_Casing10x25mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BA5D
+Path = /5500B388
+Reference = P1;
+ValeurCmp = HV_AC;
+IdModule  = Conn_screw:mstba_2,5%2f2-g-5,08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BA68
+Path = /54FF5BF9
+Reference = P2;
+ValeurCmp = HTR_AC;
+IdModule  = Conn_screw:mstba_2,5%2f2-g-5,08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BA73
+Path = /54FF691D
+Reference = P3;
+ValeurCmp = HTR_OUT;
+IdModule  = Conn_screw:mstba_2,5%2f2-g-5,08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BA7E
+Path = /5500B863
+Reference = P4;
+ValeurCmp = HV;
+IdModule  = Conn_screw:mstba_2,5%2f2-g-5,08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BA8E
+Path = /54FF5442
+Reference = Q1;
+ValeurCmp = BC550C;
+IdModule  = Housings_TO-92:TO-92_Rugged;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BACF
+Path = /54FF5617
+Reference = R1;
+ValeurCmp = 2k;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5506DD6E
+Path = /54FF9A76
+Reference = R2;
+ValeurCmp = 100R;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BAEB
+Path = /54FF554E
+Reference = R3;
+ValeurCmp = 1k;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5506DDDA
+Path = /54FFA520
+Reference = R4;
+ValeurCmp = 470k;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BB07
+Path = /54FF549C
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5502FC22
+Path = /54FF563F
+Reference = R6;
+ValeurCmp = 33;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BB23
+Path = /54FF73F7
+Reference = R7;
+ValeurCmp = 1k;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BB31
+Path = /54FF7316
+Reference = R8;
+ValeurCmp = 680;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BB3F
+Path = /5500CA04
+Reference = R9;
+ValeurCmp = 130k;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500BB4D
+Path = /5500C042
+Reference = R10;
+ValeurCmp = 62k;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500C03F
+Path = /54FF53B0
+Reference = Q2;
+ValeurCmp = IRF5305;
+IdModule  = Transistors_TO-220:TO-220_FET-GDS_Vertical_LargePads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5500C056
+Path = /54FF6D4D
+Reference = Q3;
+ValeurCmp = DN2530N3;
+IdModule  = Housings_TO-92:TO-92_Rugged;
+EndCmp
+
+BeginCmp
+TimeStamp = 5502E4BC
+Path = 
+Reference = REF**;
+ValeurCmp = 1pin;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 5502E4FA
+Path = 
+Reference = REF**;
+ValeurCmp = 1pin;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 5502E575
+Path = 
+Reference = REF**;
+ValeurCmp = 1pin;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 5502E592
+Path = 
+Reference = REF**;
+ValeurCmp = 1pin;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
+TimeStamp = 5506F4E7
+Path = /5506FB40
+Reference = R11;
+ValeurCmp = 1k;
+IdModule  = Discret:R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = 55666DC2
+Path = /5564DACC
+Reference = D6;
+ValeurCmp = LM-385Z-1.2;
+IdModule  = Housings_TO-92:TO-92_Rugged;
+EndCmp
+
+EndListe
